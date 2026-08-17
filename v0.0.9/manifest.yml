@@ -1,0 +1,10 @@
+---
+name: ANTflow
+version: 0.0.9-beta+28308
+authors:
+- Luis Palomares
+description: 'Visual workflow AI automation framework for Grasshopper. It empowers designers to orchestrate generative AI services, external APIs, and data pipelines directly on the GH canvas, merging AI loops with parametric geometry. Features: Asynchronous computation, persistent (conversational) memory. '
+license: ''
+url: ''
+keywords:
+- guid:6d0ce547-73d6-4ec8-acea-bb19d615b3cc

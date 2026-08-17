@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6d0ce547-73d6-4ec8-acea-bb19d615b3cc}") = "ANTflow.Components", "ANTflow.Components\ANTflow.Components.csproj", "{dbfa4595-d66f-4211-8362-8226d675ec63}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{dbfa4595-d66f-4211-8362-8226d675ec63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{dbfa4595-d66f-4211-8362-8226d675ec63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{dbfa4595-d66f-4211-8362-8226d675ec63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{dbfa4595-d66f-4211-8362-8226d675ec63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
