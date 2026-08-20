@@ -26,7 +26,20 @@ Visual workflow AI automation framework for Grasshopper. It empowers designers t
    - OpenAI image
 
 
-____________________________________________________________________
+## Installation
+Option 1: 
+1. Drag and drop YAK file onto Rhino's viewport
+2. Restart Rhino
+Option 2: 
+1. Copy GHA file
+2. Open Libraries folder by going into Grasshopper and hitting File > Special Folders > Components Folder
+3. Paste it inside Libraries folder
+4. Restart Rhino
+Option 3 (Coming soon): 
+1. Type "PackageManager" within Rhino's command prompt
+2. Look for ANTflow in the search box
+3. Hit the "Install" button
+4. Restart Rhino
 
 ## Troubleshooting
 
