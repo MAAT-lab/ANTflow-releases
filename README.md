@@ -67,6 +67,7 @@ If components show message that environment is corrupted:
    - Select "New Python 3"
    - Go to "Tools" again and check if the menu contents are still grayed out
  
-### Environment issues
+### Other environment issues
 - Delete the complete Python environment manually lotated at C:\Users\l03063058\.rhinocode
 - Look for the py39-rh8 folder and delete it.
+- If problem persists, wipe the global cache by deleting everything inside this folder: %LocalAppData%\pip\Cache
